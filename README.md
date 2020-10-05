@@ -22,7 +22,7 @@
   
 <!--START_SECTION:activity-->
 
-1. ❗️ Introduction To Python Projects [HERE](docs/intro/index.html)
+1. ❗️ Introduction To Python Projects [HERE](Introduction.md)
 
 <!--END_SECTION:activity-->
 
