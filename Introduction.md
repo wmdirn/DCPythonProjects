@@ -80,7 +80,7 @@ plt.ylabel('...')
 
 
 
-![png](output_7_1.png)
+![png](res/output_7_1.png)
 
 
 ## 5. Jupyter notebooks ♡ a lot more
@@ -111,7 +111,7 @@ phone_map
 
 
 
-![png](output_7_2.png)
+![png](res/output_7_2.png)
 
 
 
